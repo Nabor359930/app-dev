@@ -7,6 +7,6 @@
 {
   "firstName": "Darren Jeremy",
   "lastName": "Nabor",
-  "favoriteSeries": "Stranger Thing"
+  "favoriteSeries": "Stranger Things"
 }
 ```
